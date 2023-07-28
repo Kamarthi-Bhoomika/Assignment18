@@ -13,7 +13,7 @@ namespace Assignment18
         public SmartPhone()
         {
             charge = 0;
-            info = "Connecti";
+            info = "";
         }
         public int Charge(int minutes)
         {
